@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "profile": {
+    "displayName": "デモユーザー",
+    "mbti": "ENFP",
+    "zodiac": "aquarius",
+    "birthday": "2000-02-01",
+    "preferences": {
+      "energy": 1,
+      "planning": 0,
+      "conversation": 0,
+      "place": 1,
+      "invitation": 0
+    }
+  },
+  "friends": [
+    {
+      "id": "demo-friend-1",
+      "displayName": "サンプル アオイ",
+      "mbti": "INFJ",
+      "zodiac": "pisces",
+      "birthday": "1999-03-10",
+      "preferences": {
+        "energy": -1,
+        "planning": -1,
+        "conversation": -1,
+        "place": -1,
+        "invitation": -1
+      },
+      "community": "読書仲間",
+      "note": "静かなカフェや本の話が好き",
+      "nextTimeNote": "新しくできた書店の話をする",
+      "source": "sample"
+    },
+    {
+      "id": "demo-friend-2",
+      "displayName": "サンプル ハル",
+      "mbti": "ESTP",
+      "zodiac": "leo",
+      "birthday": "2001-08-05",
+      "preferences": {
+        "energy": 1,
+        "planning": 1,
+        "conversation": 1,
+        "place": 1,
+        "invitation": 1
+      },
+      "community": "音楽仲間",
+      "note": "ライブやアウトドアが好き",
+      "nextTimeNote": "週末の音楽イベントに誘う",
+      "source": "sample"
+    },
+    {
+      "id": "demo-friend-3",
+      "displayName": "サンプル ソラ",
+      "mbti": "ISFJ",
+      "zodiac": "taurus",
+      "birthday": "1998-05-12",
+      "preferences": {
+        "energy": -1,
+        "planning": -1,
+        "conversation": 0,
+        "place": -1,
+        "invitation": -1
+      },
+      "community": "読書仲間",
+      "note": "予定を先に決めると安心",
+      "nextTimeNote": "次に会う候補日を相談する",
+      "source": "sample"
+    },
+    {
+      "id": "demo-friend-4",
+      "displayName": "サンプル ナギ",
+      "mbti": null,
+      "zodiac": null,
+      "birthday": null,
+      "preferences": {
+        "energy": 0
+      },
+      "community": "音楽仲間",
+      "note": "タイプと誕生日が不明な友達の例",
+      "nextTimeNote": "好きな音楽を聞いてみる",
+      "source": "sample"
+    }
+  ],
+  "settings": {
+    "birthdayNotifications": false
+  }
+}
